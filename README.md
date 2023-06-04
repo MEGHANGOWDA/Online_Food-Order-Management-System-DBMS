@@ -1,0 +1,2 @@
+# Online-Food-Order-Management-System
+  Mini project in DBMS using Appach ,MySQL ,php .The project deals with the ordering and delivering the food from restaurant to customer’s in the society .Food business usually will have high demand and hence online business prospect for food ordering should be profitable. We will provide an easily accessible interface wherein the customer canview and place the order easily.
